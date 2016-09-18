@@ -204,7 +204,7 @@ Hs100Api.prototype.getDailyStatisticsForMonth = function (month, year) {
 };
 
 /**
- * Get Montly Statistic for given Year
+ * Get Monthly Statistic for given Year
  * @param number [year] the full year, e.g. 2016
  * @returns {Promise.<T>}
  */
